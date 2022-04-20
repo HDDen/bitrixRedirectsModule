@@ -1,0 +1,5 @@
+<?php
+
+$MESS['HDDEN_REDIRECT_MODULE_NAME'] = 'Редиректы для SEO (форк HDDen)';
+$MESS['HDDEN_REDIRECT_MENU_ITEM_SETTINGS'] = ' - Настройки';
+$MESS['HDDEN_REDIRECT_MENU_ITEM_REDIRECTS'] = ' - Список';
